@@ -6,25 +6,25 @@ A curated list of the best product management jobs in tech, updated daily.
 
 ## Latest Jobs
 
-*Updated on 2025-04-16*
+*Updated on 2025-04-19*
 
 | Company | Position | Location | Posted | Apply |
 | ------- | -------- | -------- | ------ | ------ |
-| Mercury | Senior Product Manager - Treasury and Cash Management | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/9e4edd122ad646c4a99a87f0cc8da9d2?utm=github) |
-| Jedox | Product Manager AI (m/f/d) | 📍 Freiburg, Baden-Württemberg, Germany | Apr 14 | [Apply](https://starjobs.dev/jobs/34acf4aa6a0e4c63ad8238a7f2d8c0ef?utm=github) |
-| Simplilearn | Product Manager (Salesforce) | 📍 Bengaluru, Karnataka, India | Apr 14 | [Apply](https://starjobs.dev/jobs/faf4311db06c49e8bbc9aaa36bce92a5?utm=github) |
-| Adecco | Product Manager Manager | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/700af7d7f94b4f24b05cc726c9cc0a30?utm=github) |
-| Claritas Rx | Product Manager | 📍 United States | Apr 14 | [Apply](https://starjobs.dev/jobs/8758268b286a4cf0899c32b9982685f7?utm=github) |
-| OX Human Resource Consulting | Product Manager | 📍 China | Apr 14 | [Apply](https://starjobs.dev/jobs/feec09b14f52479290e771d06d5d359a?utm=github) |
-| INSPYR Solutions | Digital Product Manager | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/36c95391e5454230a74e8f2b4415ac90?utm=github) |
-| CUJU | Senior Product Manager | 📍 Germany | Apr 14 | [Apply](https://starjobs.dev/jobs/969d48be3cbd4bb88de71faace1c9639?utm=github) |
-| Ubique Systems | Product Owner | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/ed2e0dc1a7604a159d65c4afb6de641d?utm=github) |
-| Sand Cherry | Program Manager, Digital Transformation | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/e806a843209b4f15aa8cdba63236d1e2?utm=github) |
-| Jobgether | Associate Growth Product Manager - (Remote - US) 💰 | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/51e160085bc54c59adad240e703c0aec?utm=github) |
-| Omnidian | Software Product Manager | 🌐 Remote | Apr 13 | [Apply](https://starjobs.dev/jobs/f0ed8e56b2e7495a8252b690d430c3da?utm=github) |
-| Roofr | Senior Product Manager | 🌐 Remote | Apr 13 | [Apply](https://starjobs.dev/jobs/4dc1be9e26844ebf8a74c07d71546c69?utm=github) |
-| Gusto | Senior Product Manager, Invoice & Billing | 🌐 Remote (North America) | Apr 12 | [Apply](https://starjobs.dev/jobs/1645b0854ae34d99a86fe1a0ab6b0fed?utm=github) |
-| Fluxon | Senior Product Manager | 🌐 Remote | Apr 12 | [Apply](https://starjobs.dev/jobs/ff25d02e769744f7bfdb086012473de6?utm=github) |
+| Bestow | Senior Product Manager - Identity Access Management (IAM) | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/e9729f49d90e4d3f8f0659b00e044368?utm=github) |
+| Civica | Technical Product Manager | 📍 London, England, United Kingdom | Apr 17 | [Apply](https://starjobs.dev/jobs/0113effc0fc0458dba35587bd6d5912a?utm=github) |
+| The Jacobson Group | ServiceNow Business Analyst/Product Owner | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/5a514fbbeabd4205bce1bb96064cc8de?utm=github) |
+| NEVARIS Bausoftware | Product Manager (f/m/d) | 📍 Germany | Apr 17 | [Apply](https://starjobs.dev/jobs/cb8b072885f84ccd8640e4a3fdfb3e0b?utm=github) |
+| Solace | Product Manager | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/efa582e4fa744ae9a3062b5fb1481920?utm=github) |
+| Capital One | Senior Associate, Product Management - Enterprise Data | 📍 New York, NY | Apr 17 | [Apply](https://starjobs.dev/jobs/1978c0f9809a43ed9ed1f766089bede1?utm=github) |
+| Capital One | Senior Associate, Product Manager - Retail Bank | 📍 New York, NY | Apr 17 | [Apply](https://starjobs.dev/jobs/53ec940feac7452b992134643317177f?utm=github) |
+| Capital One | Senior Associate, Product Manager -Small Business Bank Digital Servicing | 📍 New York, NY | Apr 17 | [Apply](https://starjobs.dev/jobs/c7a886e1c0cf4fb8ab77b1a6560a9750?utm=github) |
+| Capital One | Senior Associate, Product Management - Premium Products & Experiences: Luxury Travel | 📍 New York, NY | Apr 17 | [Apply](https://starjobs.dev/jobs/b3ab70239e1141718cb8d61a7f5d16f2?utm=github) |
+| Capital One | Sr. Associate, Product Management - Card Core Team | 📍 New York, NY | Apr 17 | [Apply](https://starjobs.dev/jobs/353201bdb5624ae99cd321dc8acb634b?utm=github) |
+| Motion Recruitment | Junior Product Manager | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/33a19881126a4dddbdf0d3f3247b594a?utm=github) |
+| The Jacobson Group | Salesforce Product Owner | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/c840aa2316134ebe83b3da7232d9c978?utm=github) |
+| Greenlight | Senior Product Manager | 📍 Bengaluru, Karnataka, India | Apr 16 | [Apply](https://starjobs.dev/jobs/80adc9fd6bc34950be88920d1e10a1b0?utm=github) |
+| Mindbloom | Product Manager | 🌐 Remote | Apr 15 | [Apply](https://starjobs.dev/jobs/5eab004a980945bc9373e55df823f3ad?utm=github) |
+| Deel | Senior Product Manager, Global Benefits | 🌐 Remote | Apr 15 | [Apply](https://starjobs.dev/jobs/46cd6203d5864041aa396c58d61d06ca?utm=github) |
 
 
 ## About This List
@@ -38,8 +38,8 @@ This list is automatically updated daily with fresh job opportunities.
 ## Other Awesome Job Lists
 
 * [Tech Jobs in the USA](https://github.com/bansalnagesh/tech-jobs-usa)
-* [Awesome Frontend Jobs](https://github.com/bansalnagesh/awesome-frontend-jobs)
-* [Awesome Remote Tech Jobs](https://github.com/bansalnagesh/awesome-remote-tech-jobs)
-* [Awesome Backend Jobs](https://github.com/bansalnagesh/awesome-backend-jobs)
-* [Tech Jobs in India](https://github.com/bansalnagesh/tech-jobs-india)
-* [Awesome AI & Machine Learning Jobs](https://github.com/bansalnagesh/awesome-ai-ml-jobs)
+* [Awesome DevOps Jobs](https://github.com/bansalnagesh/awesome-devops-jobs)
+* [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
+* [Senior Tech Jobs](https://github.com/bansalnagesh/senior-tech-jobs)
+* [Awesome Full Stack Jobs](https://github.com/bansalnagesh/awesome-fullstack-jobs)
+* [High Paying Tech Jobs](https://github.com/bansalnagesh/high-paying-tech-jobs)
